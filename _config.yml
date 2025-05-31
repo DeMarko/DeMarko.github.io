@@ -2,7 +2,7 @@
 title:               Unfortunately, posts
 tagline:             I have no blog and I must post.
 description:         "If you haven't heard me infodump before, this should be new."
-url:                 http://posts.demarko.org
+url:                 https://posts.demarko.org
 baseurl:             ''
 paginate:            5
 permalink:           pretty
@@ -10,7 +10,7 @@ permalink:           pretty
 # About/contact
 author:
   name:              Dannel Jurado
-  url:               https://bsky.app/profile/demarko.org
+  url:               https://demarko.org
 
 # Gems
 plugins:

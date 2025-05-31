@@ -3,6 +3,10 @@ layout: page
 title: The American Glossary of Union Terms You Should Know in 2025 (Abridged, Incomplete)
 ---
 
+The title is only kind of a joke but I have wanted something like this for a while. It is obviously a work-in-progress. Please @ me [on Bluesky](https://bsky.app/profile/demarko.org) or [Mastodon](https://xoxo.zone/@demarko) if you've got a term that you're curious about.
+
+_If I haven't filled it out yet, I plan to_
+
 <dl>
   <dt>wall-to-wall union</dt>
   <dd>
