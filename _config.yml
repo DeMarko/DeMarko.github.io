@@ -1,0 +1,21 @@
+# Setup
+title:               Unfortunately, posts
+tagline:             I have no blog and I must post.
+description:         "If you haven't heard me infodump before, this should be new."
+url:                 http://posts.demarko.org
+baseurl:             ''
+paginate:            5
+permalink:           pretty
+
+# About/contact
+author:
+  name:              Dannel Jurado
+  url:               https://bsky.app/profile/demarko.org
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+version:             1.1.0
+google_analytics_id: #UA-XXXX-Y
