@@ -15,9 +15,15 @@ I also wasn't in a union before this job. Like most of my peers in the software 
 
 ## So you're in a union, which one?
 
-That's a complicated question with a simple answer. To give you the quickest answer possible I'll say I'm a dues-paying member of [OPEIU Local 153](https://www.opeiulocal153.org/) (if the picture of us at the May Day march is still on the frontpage, that's me in the pizza shirt). My workplace, [Kickstarter](https://www.kickstarter.com/), is unionized under Local 153 for our US employees. You can [listen to a podcast on the origin of our union](https://kickstarterunited.org/oral-history/), it's pretty great.
+That's a complicated question with a simple answer. To give you the quickest answer possible I'll say I'm a dues-paying member of [OPEIU Local 153](https://www.opeiulocal153.org/) (if the picture of us at the May Day march is still on the frontpage, that's me in the pizza shirt). My workplace, [Kickstarter](https://www.kickstarter.com/), is [unionized under Local 153](https://kickstarterunited.org/) for our US employees. You can [listen to a podcast on the origin of our union](https://kickstarterunited.org/oral-history/), it's pretty great.
 
 I'll dive deeper into what I mean by "my union" in one of these posts, because the answer does get a little bit complicated, and how you feel you belong in your union can also be different.
+
+## How did you get involved in your union?
+
+I started in March of 2019. On my first day in the office after a full day of onboarding and getting my development environment set up (shout out to _knifing a databag_), one of my coworkers asked if I had a moment to talk. [I had heard the scuttlebutt](https://www.buzzfeednews.com/article/daveyalba/kickstarter-perry-chen-founder-worship-turmoil) before I joined, but I was still excited to get to work with my team on an area of development that I had always been passionate about (System Integrity). My coworker and I go into one of the conference rooms as the office was clearing out for the day and they told me they were in the process of forming a union. I don't remember hesitating, I do remember being excited, a union! at a tech company! That's pretty cool. "How can I help?" was probably somewhere in my excited sea of questions.
+
+By my second week I was already attending our organizing meetings and had a better glimpse of just what we had to do thanks to some comprehensive organizing committee onboarding that my predecessors put together.
 
 ## Why are you talking about unions? Why now?
 

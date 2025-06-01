@@ -17,6 +17,9 @@ _If I haven't filled it out yet, I plan to_
     often remembered as the more traditional industry or craft union, focuses on a particular industrial sector (e.g. hotel workers, electricians) with the goal of having control over the labor in that entire industry.
   </dd>
 
+  <dt>organizing committee</dt>
+  <dd></dd>
+
   <dt>voluntary recognition</dt>
   <dd></dd>
 
