@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Setting some context
+tags: [personal-lore, labor, unions]
 ---
-
-# Setting some context
 
 I think it's important that you, the reader, know where I'm coming from, what my history is with unions, and what my goal is. I'll try to lay that out as best I can.
 
@@ -45,3 +44,12 @@ I'm not expecting this to mean much to most people, but for the union-savvy, let
 ## What are you **not** going to talk about?
 
 This isn't a how-to for organizing a union in your workplace. I think there are far better people suited to explain that. I'm here to explain jargon and concepts that I've learned that aren't as useful in the organizing phase of your union (but may help contextualize ideas/goals you may have)
+
+## Well, what **are** you going to talk about?
+
+I'm going to start by talking about things like "What I mean when I say My Union" and I will inevitably get into the structures I've been exposed to, how they're governed, and why I understand them to be the way they are.
+
+Eventually I need to talk about organizers, staff, and stewards. Because those are the types of individuals who keep our unions going, across all unions. Somewhere in there I will have to mention things like working groups at our union, because they're the set of people who help us get important, focused things done.
+
+For now, I've started filling out a [list of terms that I think people should know]({% link american-glossary-of-union-terms-you-should-know.md %}).
+

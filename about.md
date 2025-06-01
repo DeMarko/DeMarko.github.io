@@ -3,6 +3,12 @@ layout: page
 title: Who the heck?
 ---
 
+<div  style="display: flex; justify-content: center;">
+  <figure>
+    <img src="https://demarko.org/img/Dannel_Fair_Contract_caitlin_rose_boyle.jpg" alt="Even looked in my pockets" />
+    <figcaption>commision by <a href="https://caitlinroseboyle.com/">Caitlin Rose Boyle</a>, who is a kickass artist and friend</figcaption>
+  </figure>
+</div>
 
 I'm a lot of things but some of the things I am include (but are not limited to):
 
