@@ -2,7 +2,10 @@
 layout: post
 title: Setting some context
 tags: [personal-lore, labor, unions]
+feedback_welcome: "yes"
 ---
+
+Over the next `$nearTermTimeframe` (let's say month, hopefully) or so, I'm going to write some posts about what things mean in the US labor movement, at least as I've come to understand them. I hope you read them, whether you're a comrade in labor, a peer in the industry (tech), a friend who hasn't checked in with me for a while (real ones know it's been a couple of years of me not being able to shut up about labor), or even a curious stranger.
 
 I think it's important that you, the reader, know where I'm coming from, what my history is with unions, and what my goal is. I'll try to lay that out as best I can.
 
@@ -15,8 +18,6 @@ I also wasn't in a union before this job. Like most of my peers in the software 
 ## So you're in a union, which one?
 
 That's a complicated question with a simple answer. To give you the quickest answer possible I'll say I'm a dues-paying member of [OPEIU Local 153](https://www.opeiulocal153.org/) (if the picture of us at the May Day march is still on the frontpage, that's me in the pizza shirt). My workplace, [Kickstarter](https://www.kickstarter.com/), is [unionized under Local 153](https://kickstarterunited.org/) for our US employees. You can [listen to a podcast on the origin of our union](https://kickstarterunited.org/oral-history/), it's pretty great.
-
-I'll dive deeper into what I mean by "my union" in one of these posts, because the answer does get a little bit complicated, and how you feel you belong in your union can also be different.
 
 ## How did you get involved in your union?
 
@@ -52,4 +53,3 @@ I'm going to start by talking about things like "What I mean when I say My Union
 Eventually I need to talk about organizers, staff, and stewards. Because those are the types of individuals who keep our unions going, across all unions. Somewhere in there I will have to mention things like working groups at our union, because they're the set of people who help us get important, focused things done.
 
 For now, I've started filling out a [list of terms that I think people should know]({% link american-glossary-of-union-terms-you-should-know.md %}).
-
