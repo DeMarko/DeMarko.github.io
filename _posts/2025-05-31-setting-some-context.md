@@ -3,7 +3,7 @@ layout: post
 title: Setting some context
 tags: [personal-lore, labor, unions]
 feedback_welcome: "yes"
-image: https://demarko.org/twitter-image.png
+image: https://demarko.org/assets/images/og/posts/setting-some-context.png
 ---
 
 Over the next `$nearTermTimeframe` (let's say month, hopefully) or so, I'm going to write some posts about what things mean in the US labor movement, at least as I've come to understand them. I hope you read them, whether you're a comrade in labor, a peer in the industry (tech), a friend who hasn't checked in with me for a while (real ones know it's been a couple of years of me not being able to shut up about labor), or even a curious stranger.

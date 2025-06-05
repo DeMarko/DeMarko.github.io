@@ -25,14 +25,26 @@ social:
 plugins:
   - jekyll-paginate
   - jekyll-seo-tag
+  # - jekyll-og-image
 
 # Custom vars
 version:             0.5.1
 google_analytics_id: #UA-XXXX-Y
 
-
 defaults:
   - scope:
       path: ""
     values:
-      image: https://demarko.org/twitter-image.png
+      image: https://demarko.org/assets/images/default_card.jpg
+
+og_image:
+  output_dir: "assets/images/og"
+  image: "/assets/images/default_card.jpg"
+  domain: "posts.demarko.org"
+  border_bottom:
+    width: 20
+    fill:
+      - "#017D5D"
+      - "#00AE86"
+      - "#EE6055"
+      - "#FFD97D"
