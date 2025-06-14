@@ -105,7 +105,7 @@ For other decisions or actions, similar to the working groups described above, o
 
 ## Your national union
 
-### Who leads an national? Who makes decisions?
+### Who leads a national? Who makes decisions?
 
 The officers and board of our national have a similar charge to the officers and board of a local: to keep the union running so that it may benefit its members in the years to come. This means that decisions that they make may feel opaque because as a member it's hard to see the forest for the trees. This isn't to say that members don't have influence on their national, just that they need to exercise their collective muscle effectively to move their national. National don't have to move slow, it is a demonstration of the care that they make for their decision-making and members that may be perceived as slowness.
 
