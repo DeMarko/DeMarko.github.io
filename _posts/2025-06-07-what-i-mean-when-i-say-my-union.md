@@ -29,7 +29,7 @@ Officially, at the time of the formation of your union (whether by [NLRB electio
 
 In my case, we had around 80 people at the formation of our union, and still hover around that number. It turns out we're a small workplace by comparison to many bargaining units in our local but we're very active and continue to build on the values we established during our organizing drive: _solidarity_, _transparency_, _distributed power_, and _joy_. We elected stewards to represent our coworkers in disciplinary meetings and investigating grievances, but we try to share the load of running our union when we can (more on that later in this post). We hold monthly meetings even when we're not actively bargaining a contract and we keep an active conversation about our working conditions in a shared digital space. This is no small feat and requires an active effort from many members, but we are stronger for it.
 
-Your bargaining unit, like mine, is likely affiliated with a local. It's rare that you have the financial, legal, or even labor specific expertise contained already within your bargaining unit to do the administrative work of running your union. That's where the local comes in, many bargaining units pooling their resources together to be able to hire experts who can help you with the things your union can't do.
+Your bargaining unit, like mine, is likely affiliated with a local. It's rare that you have the financial, legal, or even labor specific expertise contained already within your bargaining unit to do the administrative work of running your union. That's where the local comes in: many bargaining units pooling their resources together to be able to hire experts who can help you with the things your union can't do.
 
 ## Your union local
 
